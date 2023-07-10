@@ -1,0 +1,33 @@
+Questions - in each case write your interpretation. Affair value >0 = affair, otherwise no affair
+Open or Import the data in the system
+How many rows or columns are present?
+What is the data type of each column? If there is mismatch in data type then correct it
+Remove the first column which is un-named
+Create a new column affair_status where code 0 in affair indicate No and rest other values indicate yes.
+is there any missing values in dataset?
+How many males and females are present in the dataset? Create a count table and % table and visualize the %table?
+What is the most common age in the dataset?
+
+Is this overall common age differ by male and female? Visualize it and interpret the output
+Do male more involved in extra marrital affair then women?
+Usually in which age women are tend to involve more in extra marital affair?
+Does low number (<5) of years married impact for extra marrital afair OR in later years?
+Does low or high numbers of married years have more impact on male or female for extra marital affairs?
+Is there any relation between age and years married for extra marital affair?
+How many children or non children values are present in the dataset? Show it by count and % and visualize the %
+Does having no children result into extra marital affair?
+What is the distribution of religiousness in our dataset?
+Do less religious people have more extra marital affair or more religion people?
+What is the probability of male having an affair?
+What is the probability of male with Children having an affair?
+What is the probability of affair for male with high religiniousness vs male with low religiousness?
+Do probability of female with children are more inclined to affair than female with no children?
+Test the hypothesis "Male and Female are equally attracted to external affair".
+Test the hypothesis "Male having children engage more in external affair than female".
+If 5 males are randomly selected, then what is the probability that they do not have affair
+Divide the dataset in target and features dataset
+Decode the categorical variables for machine learning
+Create a Train and Test Dataset
+Apply the machine learning on train dataset and create machine learning model
+Evalaute the model on Test Dataset
+Provide your own input to the model and find the model prediction
